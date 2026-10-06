@@ -1,0 +1,97 @@
+AI HACKATHON AND PROJECT MENTOR KNOWLEDGE BASE
+
+PROJECT DEVELOPMENT
+
+A good project should start with a clearly defined problem.
+First identify the problem, target users, existing solutions and limitations.
+
+PROJECT DEVELOPMENT STEPS
+
+1. Identify the problem.
+2. Define the target users.
+3. Study existing solutions.
+4. Identify limitations in existing solutions.
+5. Propose a solution.
+6. Identify what makes the solution unique.
+7. Select suitable technologies.
+8. Design the system architecture.
+9. Develop the prototype.
+10. Test the system.
+11. Deploy the application.
+12. Prepare documentation and presentation.
+
+HACKATHON PROJECT
+
+A strong hackathon project should solve a real-world problem.
+The project should have a clear problem statement, target users,
+proposed solution, innovation, technical feasibility and measurable impact.
+
+PROJECT NOVELTY
+
+A project can be made unique by:
+
+- Adding a new feature.
+- Improving an existing process.
+- Using AI or machine learning appropriately.
+- Providing personalization.
+- Automating manual tasks.
+- Combining multiple technologies.
+- Solving a specific user problem better than existing solutions.
+
+TECHNOLOGY SELECTION
+
+Frontend technologies can include React, HTML, CSS and Streamlit.
+
+Backend technologies can include Python, FastAPI and Flask.
+
+Databases can include SQLite, MySQL and PostgreSQL.
+
+AI and machine learning can use Python, scikit-learn,
+Transformers and Sentence Transformers.
+
+PROJECT ROADMAP
+
+Phase 1: Problem identification
+Phase 2: Requirement analysis
+Phase 3: Technology selection
+Phase 4: System design
+Phase 5: Prototype development
+Phase 6: AI/ML integration
+Phase 7: Testing
+Phase 8: Deployment
+Phase 9: Documentation
+Phase 10: Presentation and viva preparation
+
+PPT STRUCTURE
+
+A project presentation can contain:
+
+1. Title
+2. Problem Statement
+3. Existing System
+4. Proposed System
+5. Objectives
+6. Methodology
+7. System Architecture
+8. Technologies Used
+9. Implementation
+10. Results
+11. Advantages
+12. Limitations
+13. Future Scope
+14. Conclusion
+
+VIVA PREPARATION
+
+Common project viva questions include:
+
+1. What problem does your project solve?
+2. Why did you choose this project?
+3. Who are the target users?
+4. What technologies did you use?
+5. Why did you choose these technologies?
+6. Explain your system architecture.
+7. What is unique about your project?
+8. What are the advantages?
+9. What are the limitations?
+10. What is the future scope?
